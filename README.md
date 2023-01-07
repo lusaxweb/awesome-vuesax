@@ -1,3 +1,5 @@
 # Awesome Vuesax [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome projects for Vuesax framework
+
+- [Content-LD](https://content-ld.com)
